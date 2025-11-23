@@ -1,0 +1,53 @@
+categories:
+  - name: Food & Dining
+    keywords:
+      - starbucks
+      - coffee
+      - pizza
+      - burger
+      - restaurant
+      - swiggy
+      - zomato
+
+  - name: Shopping
+    keywords:
+      - amazon
+      - flipkart
+      - myntra
+      - mall
+      - purchase
+      - clothing
+
+  - name: Transportation
+    keywords:
+      - uber
+      - ola
+      - metro
+      - bus
+      - train
+      - fuel
+      - petrol
+      - diesel
+
+  - name: Bills & Utilities
+    keywords:
+      - electricity
+      - eb bill
+      - recharge
+      - dth
+      - wifi
+      - broadband
+      - gas
+      - water
+
+  - name: Entertainment
+    keywords:
+      - netflix
+      - prime
+      - hotstar
+      - movie
+      - theatre
+      - pvr
+      - concert
+      - spotify
+      - music
