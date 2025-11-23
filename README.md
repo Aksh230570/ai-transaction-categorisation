@@ -1,14 +1,3 @@
-Great — thanks for sharing your repo link: [https://github.com/Aksh230570/ai-transaction-categorisation/tree/main](https://github.com/Aksh230570/ai-transaction-categorisation/tree/main)
-
-I’ll generate the **README.md** content now so you can paste it into your repo. Let’s get this ready for submission.
-
----
-
-Here’s a full README draft:
-
----
-
-```markdown
 # AI Transaction Categorisation System
 
 **Automated, explainable, human-in-the-loop system for categorising cryptic bank, UPI and wallet transactions.**
